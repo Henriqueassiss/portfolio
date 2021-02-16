@@ -5,9 +5,9 @@
   Portfolio - Henrique Assis - v1.0
 </h1>
 
-<p align="center">I decided to create a web portfolio just for practcing.</p>
+<p align="center">I decided to create a web portfolio just for practicing.</p>
 
-<p align="center">The App idea is for selling the new gaming console generation.</p>
+<p align="center">The website is currently in version 1.0, but i plan to update soon.</p>
 
 Here is the link -> https://henriqueassiss.github.io/portfolio/
 
