@@ -2,17 +2,14 @@
   <img alt="Logo" src="assets/tab_logo.png" width="100" />
 </div>
 <h1 align="center">
-  <a href="https://henriqueassiss.github.io/portfolio/" target="_blank">Henrique Assis - v1.0</a>
+  Portfolio - Henrique Assis - v1.0
 </h1>
 
-# Portfolio
-I decided to create a web portfolio just for practcing.
+<p align="center">I decided to create a web portfolio just for practcing.</p>
 
-The App idea is for selling the new gaming console generation.
+<p align="center">The App idea is for selling the new gaming console generation.</p>
 
-I got inspired when I saw a beatiful app design in Dribbble, made by <b>Shashank Kaushik</b>, so i decided to built it in Flutter.
-
-Here is the design reference -> https://dribbble.com/shots/14588621-Gaming-Console-Shop
+Here is the link -> https://henriqueassiss.github.io/portfolio/
 
 <h2>Demo Video</h2>
 
