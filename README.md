@@ -11,20 +11,6 @@
 
 <p align="center"><strong>Here is the link</strong> -> https://henriqueassiss.github.io/portfolio/</p>
 
-<h2>Demo Video</h2>
-
-<img src="demo/app_video.gif" width="350"/>
-
-<h2>Some Pictures</h2>
-
-<h3>Xbox</h3>
-
-<img src="demo/xbox_carousel.jpg" width="350"/>
-
-<img src="demo/xbox_details_page.jpg" width="350"/>
-
-<h3>Playstation</h3>
-
-<img src="demo/playstation_carousel.jpg" width="350"/>
-
-<img src="demo/playstation_details_page.jpg" width="350"/>
+<div align="center">
+  <img src="assets/preview.png"/>
+</div>
