@@ -1,6 +1,9 @@
 <div align="center">
-  <img alt="Logo" src="assets/logo.png" width="100" />
+  <img alt="Logo" src="assets/tab_logo.png" width="100" />
 </div>
+<h1 align="center">
+  <a href="https://henriqueassiss.github.io/portfolio/" target="_blank">Henrique Assis - v1.0</a>
+</h1>
 
 # Portfolio
 I decided to create a web portfolio just for practcing.
