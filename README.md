@@ -2,7 +2,7 @@
   <img alt="Logo" src="assets/tab_logo.png" width="100" />
 </div>
 <h1 align="center">
-  Portfolio - Henrique Assis - v1.0
+  Henrique Assis - v1.0
 </h1>
 
 <p align="center">I decided to create a web portfolio just for practicing.</p>
