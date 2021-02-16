@@ -9,7 +9,7 @@
 
 <p align="center">The website is currently in version 1.0, but i plan to update soon.</p>
 
-<p align="center"><strong>Here is the link</strong> -> https://henriqueassiss.github.io/portfolio/</p>
+<p align="center"><strong>Here is the link</strong> -> <a href="https://henriqueassiss.github.io/portfolio/" target="_blank">Click Me</a></p>
 
 <div align="center">
   <img src="assets/preview.png"/>
